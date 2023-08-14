@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://evanknight.me/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
@@ -9,6 +9,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     brand_image = "/images/stellaris.png"    # path to the image shown in the sidebar
     description = "always learning..."
     dark_mode = true                      # optional - defaults to false
+	#favicon = "favicon1.ico"     # path to favicon (defaults to favicon.png)
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -22,8 +23,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     ]
 
     # Links to your socials.  Delete any you don't need/use. 
-    github_url = "https://github.com"
-    linkedin_url = "https://linkedin.com"
+    github_url = "https://github.com/evanknight11"
+    linkedin_url = "https://www.linkedin.com/in/evanknight11/"
     tryhackme_url = "https://tryhackme.com/p/EvanKnight11"
     youtube_url = "https://youtube.com"
 
